@@ -12,4 +12,6 @@ https://www.sciencedirect.com/science/article/abs/pii/S0034425719305401
 
 The app (web portal) is https://landcart-301816.wm.r.appspot.com/#/
 
+We built a ml-based method to predict the land surface indicator from the satellite remote sensing image. 
+
 
